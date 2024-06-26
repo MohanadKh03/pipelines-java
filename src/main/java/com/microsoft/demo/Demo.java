@@ -6,7 +6,7 @@ public class Demo {
             System.out.println("I am covered");
             return;
         }
-
-        System.out.println("I am not covered");
+        
+        System.out.println("Testing change in CI pipeline");
     }
 }
